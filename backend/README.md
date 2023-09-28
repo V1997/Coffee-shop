@@ -463,10 +463,6 @@ curl http://127.0.0.1:5000/drinks/20 -X DELETE
 }
 ```
 
-## Authors
-
-- Filipe Bezerra de Sousa (https://about.me/filipebezerra)
-
 ## Acknowledgements
 
 - Gabriel Ruttner, one of my program instructor
